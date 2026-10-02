@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Геннадий Кириченко](https://up.htmlacademy.ru/htmlcss-individual/3/user/163799).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
+* Сайт: [Sedona](https://steaddy.github.io/163799-sedona-3/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
